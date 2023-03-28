@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/htts//pitbrest.github.io/react-movies/static/css/main.27ae70f9.css",
-    "main.js": "/htts//pitbrest.github.io/react-movies/static/js/main.019a8001.js",
-    "index.html": "/htts//pitbrest.github.io/react-movies/index.html",
-    "main.27ae70f9.css.map": "/htts//pitbrest.github.io/react-movies/static/css/main.27ae70f9.css.map",
-    "main.019a8001.js.map": "/htts//pitbrest.github.io/react-movies/static/js/main.019a8001.js.map"
+    "main.css": "/react-movies/static/css/main.27ae70f9.css",
+    "main.js": "/react-movies/static/js/main.019a8001.js",
+    "index.html": "/react-movies/index.html",
+    "main.27ae70f9.css.map": "/react-movies/static/css/main.27ae70f9.css.map",
+    "main.019a8001.js.map": "/react-movies/static/js/main.019a8001.js.map"
   },
   "entrypoints": [
     "static/css/main.27ae70f9.css",
