@@ -1,0 +1,16 @@
+body {
+  user-select: none;
+  padding: 0 calc(20px - (100vw - 100%)) 0 0;
+}
+.nav-wrapper {
+  padding: 0 1.5rem;
+}
+footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.page-footer {
+  padding-top: 0;
+}
