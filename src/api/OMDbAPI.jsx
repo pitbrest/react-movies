@@ -1,5 +1,5 @@
 const API_KEY = process.env.REACT_APP_API_KEY;
-const responseTemplate = `http://www.omdbapi.com/?apikey=${API_KEY}&s=`;
+const responseTemplate = `https://www.omdbapi.com/?apikey=${API_KEY}&s=`;
 
 const searchByTitle = async function (title, type = '') {
 	try {
