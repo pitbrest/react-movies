@@ -14,6 +14,17 @@ class Modal extends Component {
 		});
 	};
 
+	componentDidMount() {
+		window.addEventListener('keyup', this.modalCloseHandler);
+	}
+
+	modalCloseHandler = (e) => {
+		if (e.key === 'Enter') {
+			this.btnHandler();
+			window.removeEventListener('keyup', this.modalCloseHandler);
+		}
+	};
+
 	render() {
 		return (
 			<div
